@@ -60,5 +60,4 @@ Predicted Label: Virginica
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-Developed by Kimbomin
----
+Developed by [Kimbomin](https://github.com/KBM050721)
